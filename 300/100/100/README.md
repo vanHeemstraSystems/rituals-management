@@ -10,6 +10,9 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 3. Title the note: "Annual Ritual Tracking 2025". **Note**: Replace ```2025``` by the year that is relevant.
 
+Links:
+- Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink.
+
 ## 200 - Basic Structure
 
 **Note**: Replace ```2025``` below by the year that is relevant.
@@ -45,9 +48,9 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 ## Operational Tracking
 ### Monthly #operational Checkpoints
-- [ ] January review @due(2025-01-31)
-- [ ] February review @due(2025-02-29)
-- [ ] March review @due(2025-03-31)
+- [ ] January review [[2025-01-31]]
+- [ ] February review [[2025-02-29]]
+- [ ] March review [[2025-03-31]]
 ...
 
 ## Progress Dashboard
@@ -57,10 +60,10 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 ## Reflection Sections
 ### Quarterly Reflections
-- Q1 Reflection @due(2025-04-01)
-- Q2 Reflection @due(2025-07-01)
-- Q3 Reflection @due(2025-10-01)
-- Q4 Reflection @due(2025-01-01)
+- Q1 Reflection [[2025-04-01]]
+- Q2 Reflection [[2025-07-01]]
+- Q3 Reflection [[2025-10-01]]
+- Q4 Reflection [[2025-01-01]]
 
 ## Key Performance Indicators (KPIs)
 - Indicator 1: 
