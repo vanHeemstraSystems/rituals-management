@@ -1,15 +1,15 @@
 儀式管理
 
-# 禮儀管理
+# 儀式管理
 
-> 斯拉格萊恩
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
--   [柔和的](./PODMAN.md)
+-   [圖片](./IMAGES.md)
+-   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
@@ -24,7 +24,7 @@
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
@@ -32,6 +32,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400-結論
 
 看[README.md](./400/README.md)
