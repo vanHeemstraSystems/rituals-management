@@ -2,19 +2,19 @@ rituelen-management
 
 # Rituelenbeheer
 
-> Sluglijn
+> Slaklijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
--   [Ingetogen](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Uitvoerende samenvatting**
+**Samenvatting**
 
 Tekst
 
@@ -22,13 +22,13 @@ Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
-See [README.md](./100/README.md)
+Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
-## 300 - onze applicatie bouwen
+## 300 - Onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
