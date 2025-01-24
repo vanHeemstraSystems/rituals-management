@@ -1,26 +1,26 @@
-إدارة الطقوس
+طقوس إدارة
 
 # إدارة الطقوس
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [مهزوما](./PODMAN.md)
+-   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 نص
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100- مقدمة
+## 100 - مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -32,6 +32,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخلاصة
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
