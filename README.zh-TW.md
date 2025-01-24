@@ -1,16 +1,16 @@
 儀式管理
 
-# 儀式管理
+# Rituals Management
 
-> 板條
+> 斯拉格萊恩
 
--   [域名系統](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [DNS](./DNS.md)
+-   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主辦單位](./HOSTS.md)
--   [圖片](./IMAGES.md)
--   [柔和的](./PODMAN.md)
--   [參考](./REFERENCES.md)
+-   [主持人](./HOSTS.md)
+-   [圖像](./IMAGES.md)
+-   [Subman](./PODMAN.md)
+-   [References](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
@@ -18,17 +18,17 @@
 
 文字
 
-生成[ritr](https://app.rytr.me)
+生成[里特爾](https://app.rytr.me)
 
 ## 100 - 簡介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
