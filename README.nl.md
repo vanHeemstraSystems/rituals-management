@@ -8,7 +8,7 @@ rituelen-management
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Beelden](./IMAGES.md)
+-   [Afbeeldingen](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
@@ -28,7 +28,7 @@ Zien[README.md](./100/README.md)
 
 Zien[README.md](./200/README.md)
 
-## 300 - Onze applicatie bouwen
+## 300 - onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
