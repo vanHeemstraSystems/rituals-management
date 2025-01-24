@@ -61,10 +61,10 @@ This comprehensive approach combines:
 # 2025 PI Planning Tracker #annual #strategic #agile #safe
 
 ## Program Increment (PI) Planning Schedule
-- [ ] Q1 PI Planning Event [[2025-01-15]] #quarterly #strategic
-- [ ] Q2 PI Planning Event [[2025-04-15]] #quarterly #strategic
-- [ ] Q3 PI Planning Event [[2025-07-15]] #quarterly #strategic
-- [ ] Q4 PI Planning Event [[2025-10-15]] #quarterly #strategic
+- [ ] Q1 PI Planning Event [[2025-01-15]] @due(2025-01-15) >2025-01-15 @quarterly #quarterly #strategic
+- [ ] Q2 PI Planning Event [[2025-04-15]] @due(2025-04-15) >2025-04-15 @quarterly #quarterly #strategic
+- [ ] Q3 PI Planning Event [[2025-07-15]] @due(2025-07-15) >2025-07-15 @quarterly #quarterly #strategic
+- [ ] Q4 PI Planning Event [[2025-10-15]] @due(2025-10-15) >2025-10-15 @quarterly #quarterly #strategic
 
 ## Q1 PI Planning Event Agenda #quarterly #tactical
 ### Pre-Planning Preparation #operational
@@ -132,17 +132,17 @@ This comprehensive approach combines:
 # Q1 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
 ## Preparation Phase
-- [ ] Gather previous PI performance metrics [[2025-01-01]] #tactical #operational
-- [ ] Collect team capacity reports [[2025-01-01]] #tactical #operational
-- [ ] Review organizational strategic objectives [[2025-01-01]] #tactical #operational
-- [ ] Compile program backlog [[2025-01-01]] #tactical #operational
-- [ ] Identify key stakeholders [[2025-01-01]] #tactical #operational
+- [ ] Gather previous PI performance metrics [[2025-01-01]] @due(2025-01-15) >2025-01-15 @quarterly #tactical #operational
+- [ ] Collect team capacity reports [[2025-01-01]] @due(2025-01-15) >2025-01-15 @quarterly #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-01-01]] @due(2025-01-15) >2025-01-15 @quarterly #tactical #operational
+- [ ] Compile program backlog [[2025-01-01]] @due(2025-01-15) >2025-01-15 @quarterly #tactical #operational
+- [ ] Identify key stakeholders [[2025-01-01]] @due(2025-01-15) >2025-01-15 @quarterly #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation [[2025-01-15]]
+- [ ] Executive Vision Presentation [[2025-01-15]] @due(2025-01-15) >2025-01-15
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
@@ -187,17 +187,17 @@ This comprehensive approach combines:
 # Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
 ## Preparation Phase
-- [ ] Gather previous PI performance metrics [[2025-04-01]] #tactical #operational
-- [ ] Collect team capacity reports [[2025-04-01]] #tactical #operational
-- [ ] Review organizational strategic objectives [[2025-04-01]] #tactical #operational
-- [ ] Compile program backlog [[2025-04-01]] #tactical #operational
-- [ ] Identify key stakeholders [[2025-04-01]] #tactical #operational
+- [ ] Gather previous PI performance metrics [[2025-04-01]] @due(2025-04-15) >2025-04-15 @quarterly #tactical #operational
+- [ ] Collect team capacity reports [[2025-04-01]] @due(2025-04-15) >2025-04-15 @quarterly #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-04-01]] @due(2025-04-15) >2025-04-15 @quarterly #tactical #operational
+- [ ] Compile program backlog [[2025-04-01]] @due(2025-04-15) >2025-04-15 @quarterly #tactical #operational
+- [ ] Identify key stakeholders [[2025-04-01]] @due(2025-04-15) >2025-04-15 @quarterly #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation [[2025-04-15]]
+- [ ] Executive Vision Presentation [[2025-04-15]] @due(2025-04-15) >2025-04-15
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
@@ -242,17 +242,17 @@ This comprehensive approach combines:
 # Q3 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
 ## Preparation Phase
-- [ ] Gather previous PI performance metrics [[2025-07-01]] #tactical #operational
-- [ ] Collect team capacity reports [[2025-07-01]] #tactical #operational
-- [ ] Review organizational strategic objectives [[2025-07-01]] #tactical #operational
-- [ ] Compile program backlog [[2025-07-01]] #tactical #operational
-- [ ] Identify key stakeholders [[2025-07-01]] #tactical #operational
+- [ ] Gather previous PI performance metrics [[2025-07-01]] @due(2025-07-15) >2025-07-15 @quarterly #tactical #operational
+- [ ] Collect team capacity reports [[2025-07-01]] @due(2025-07-15) >2025-07-15 @quarterly #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-07-01]] @due(2025-07-15) >2025-07-15 @quarterly #tactical #operational
+- [ ] Compile program backlog [[2025-07-01]] @due(2025-07-15) >2025-07-15 @quarterly #tactical #operational
+- [ ] Identify key stakeholders [[2025-07-01]] @due(2025-07-15) >2025-07-15 @quarterly #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation [[2025-07-15]]
+- [ ] Executive Vision Presentation [[2025-07-15]] @due(2025-07-15) >2025-07-15
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
@@ -297,17 +297,17 @@ This comprehensive approach combines:
 # Q4 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
 ## Preparation Phase
-- [ ] Gather previous PI performance metrics [[2025-10-01]] #tactical #operational
-- [ ] Collect team capacity reports [[2025-10-01]] #tactical #operational
-- [ ] Review organizational strategic objectives [[2025-10-01]] #tactical #operational
-- [ ] Compile program backlog [[2025-10-01]] #tactical #operational
-- [ ] Identify key stakeholders [[2025-10-01]] #tactical #operational
+- [ ] Gather previous PI performance metrics [[2025-10-01]] @due(2025-10-15) >2025-10-15 @quarterly #tactical #operational
+- [ ] Collect team capacity reports [[2025-10-01]] @due(2025-10-15) >2025-10-15 @quarterly #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-10-01]] @due(2025-10-15) >2025-10-15 @quarterly #tactical #operational
+- [ ] Compile program backlog [[2025-10-01]] @due(2025-10-15) >2025-10-15 @quarterly #tactical #operational
+- [ ] Identify key stakeholders [[2025-10-01]] @due(2025-10-15) >2025-10-15 @quarterly #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation [[2025-10-15]]
+- [ ] Executive Vision Presentation [[2025-10-15]] @due(2025-10-15) >2025-10-15
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
