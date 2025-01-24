@@ -1,8 +1,8 @@
-rituals-management
+gestión de rituales
 
-# Rituals Management
+# Gestión de rituales
 
-> línea de bala
+> Línea de babosa
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -12,13 +12,13 @@ rituals-management
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetría](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
