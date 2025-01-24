@@ -6,4 +6,8 @@ See also [Sync with Git](https://help.noteplan.co/article/102-sync-with-git)
 
 See [README.md](./100/README.md)
 
+## 200 - Setup your Git Repository
+
+See [README.md](./200/README.md)
+
 MORE ...
