@@ -28,10 +28,10 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - हमारे आवेदन का निर्माण
 
-देखना[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
