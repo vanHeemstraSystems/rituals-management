@@ -1,6 +1,6 @@
-gestión de rituales
+rituals-management
 
-# Gestión de rituales
+# Rituals Management
 
 > línea de bala
 
@@ -12,7 +12,7 @@ gestión de rituales
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetria](./TELEMETRY.md)
+-   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
