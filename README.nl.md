@@ -1,6 +1,6 @@
-rituelen-management
+rituals-management
 
-# Rituelenbeheer
+# Rituals Management
 
 > Slaklijn
 
@@ -8,15 +8,15 @@ rituelen-management
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Afbeeldingen](./IMAGES.md)
--   [Ingetogen](./PODMAN.md)
--   [Referenties](./REFERENCES.md)
--   [Vereisten](./REQUIREMENTS.md)
+-   [Images](./IMAGES.md)
+-   [Podman](./PODMAN.md)
+-   [References](./REFERENCES.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Uitvoerende samenvatting**
+**Samenvatting**
 
-Tekst
+Text
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
@@ -24,11 +24,11 @@ Gegenereerd met[Ritr](https://app.rytr.me)
 
 Zien[README.md](./100/README.md)
 
-## 200 - Vereisten
+## 200 - Requirements
 
 Zien[README.md](./200/README.md)
 
-## 300 - Onze applicatie bouwen
+## 300 - onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
