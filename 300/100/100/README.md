@@ -43,9 +43,9 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 ## Operational Tracking
 ### Monthly #operational Checkpoints
-- [ ] January review @due(2024-01-31)
-- [ ] February review @due(2024-02-29)
-- [ ] March review @due(2024-03-31)
+- [ ] January review @due(2025-01-31)
+- [ ] February review @due(2025-02-29)
+- [ ] March review @due(2025-03-31)
 ...
 
 ## Progress Dashboard
@@ -55,9 +55,9 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 ## Reflection Sections
 ### Quarterly Reflections
-- Q1 Reflection @due(2024-04-01)
-- Q2 Reflection @due(2024-07-01)
-- Q3 Reflection @due(2024-10-01)
+- Q1 Reflection @due(2025-04-01)
+- Q2 Reflection @due(2025-07-01)
+- Q3 Reflection @due(2025-10-01)
 - Q4 Reflection @due(2025-01-01)
 
 ## Key Performance Indicators (KPIs)
