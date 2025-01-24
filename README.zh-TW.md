@@ -2,10 +2,10 @@
 
 # 禮儀管理
 
-> 板條
+> 斯拉格萊恩
 
 -   [域名系統](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
 -   [圖像](./IMAGES.md)
@@ -18,11 +18,11 @@
 
 文字
 
-生成於[ritr](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
