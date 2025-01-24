@@ -33,6 +33,34 @@ com.microsoft.appcenter*
 
 8. On iOS (here; iPad), close NotePlan and open ```NotePlan```’s folder in the Files app in "On my iPhone/iPad" and delete any files in there, so they don’t cause issues. **Warning**: make sure the files on your Mac are the most recent files. If not copy them over to your Mac from your iOS device.
 
-9. Setup [Working Copy]() the same on iOS. Tap on the plus icon at the top left and then on “Setup synced directory” and select NotePlan’s folder in “On my iPad/iPhone”.
+9. Setup [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) the same on iOS (here: iPad). Tap on the plus icon at the top left and then on "Link external directory" (**Note**: This requires purchasing the Pro version of Working Copy) and select ```NotePlan```’s folder in "On my iPad/iPhone".
 
-MORE ...
+10. Add the previous repository we have created on your Mac to this folder and pull changes. First go to your GitHub account in Safari and open the newly created repo, then click on the green "Code" button to copy the "SSH" link.
+
+11. Then on iOS (here: iPad), in the ```Working Copy``` app, tap on the synced NotePlan folder you have added before, now called "Documents", tap at the top on "Repository", then tap on "Add Remote" at the bottom.
+
+Into the URL field, paste or type the SSH URL we have copied before from the GitHub repository website.
+
+- If you are already authenticated with GitHub, you can tap on "Test". 
+- If you are **not** authenticated, you can tap at the top right on "Save", go back to the first screen in ```Working Copy``` and open the preferences by tapping on the preferences icon top left. Inside the preferences, select "SSH Keys". Tap on the key which should be already available. ```WorkingCopy@xxxxxxxxx```.
+
+Then tap on "Connect with GitHub" and enter your GitHub username, password, etc.
+
+11. Now you are ready. You can make changes either on Mac and iOS and then you have to manually commit and push the changes. On the other device, you will need to pull changes every time. If you don’t do this, you will run into conflicts, which you can resolve with the git apps easily.
+
+## Your First Sync
+
+1. To make your first sync, change a file on your Mac by entering something for example in today's note. 
+
+2. Then open GitHub Desktop and you should see some files on the left under "changes".
+
+As before, enter something into the summary field below and hit "Commit", then "Push origin" at the top right.
+
+3. Now open Working Copy on iOS, select your repository called "Documents" and hit the Working Copy button at the bottom right. From here you can also commit, push and pull. Since we want to pull the changes we did on Mac, we need to select "Pull" and this should download the changes.
+
+4. If you make a change in NotePlan on iOS, you can go back to Working Copy, tap on the floating button bottom right again and this time commit your changes by selecting all files which are listed, hitting "Commit" (type a summary if needed) and then hit "Push".
+5. On Mac, you can open GitHub Desktop and pull the changes.
+
+## Resolving Conflicts
+
+You might run into a conflict if you have changed a note on two different devices without pushing/pulling first. In this case Working Copy or GitHub Desktop will notify you of the conflict and you need to resolve it by selecting the version you want to keep or trying to merge it. Then you commit this selection and pull again.
