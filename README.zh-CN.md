@@ -2,12 +2,12 @@
 
 # 存储库名称
 
-> 斯拉格莱恩
+> 板条
 
 -   [域名系统](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [主办方](./HOSTS.md)
+-   [主持人](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -23,13 +23,13 @@
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200-要求
 
 看[README.md](./200/README.md)
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
