@@ -8,7 +8,7 @@ To be able to set plan following the Scaled Agile (SAfe) methodology in NotePlan
 
 2. Click "New Note"
 
-3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant.
+3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant. See how we make use of the tagging introduced earlier, to distinguish when an activity is taking place (e.g. ```Quarterly```) and at whcih level (e.g. ```Strategic```).
 
 ## 200 - Basic Structure
 
