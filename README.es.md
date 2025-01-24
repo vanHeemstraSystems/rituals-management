@@ -2,14 +2,14 @@ gestión de rituales
 
 # Gestión de rituales
 
-> Línea de babosa
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Images](./IMAGES.md)
--   [Suave](./PODMAN.md)
+-   [Imágenes](./IMAGES.md)
+-   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetria](./TELEMETRY.md)
@@ -18,7 +18,7 @@ gestión de rituales
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
