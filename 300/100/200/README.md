@@ -6,9 +6,9 @@ To be able to set plan following the Scaled Agile (SAfe) methodology in NotePlan
 
 1. Open [NotePlan](https://app.noteplan.co/). **Note**: Use ```Apple ID Sign In``` (**not** ```Email Sign In```), so it gets synchronized across devices.
 
-2. Click "New Calendar Note"
+2. Click "New Note"
 
-3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant. See how we make use of the tagging introduced earlier, to distinguish when an activity is taking place (e.g. ```Quarterly```) and at whcih level (e.g. ```Strategic```).
+3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant. See how we make use of the tagging introduced earlier, to distinguish when an activity is taking place (e.g. ```Quarterly```) and at which level (e.g. ```Strategic```).
 
 Tags:
 - `#annual` for the overall yearly plan
@@ -16,6 +16,9 @@ Tags:
 - `#strategic` for high-level planning and vision
 - `#tactical` for intermediate-term objectives
 - `#operational` for day-to-day execution tasks
+
+Links:
+- Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink.
 
 ## 200 - Basic Structure
 
@@ -25,10 +28,10 @@ Tags:
 # 2025 PI Planning Tracker #annual #strategic #agile #safe
 
 ## Program Increment (PI) Planning Schedule
-- [ ] Q1 PI Planning Event @due(2025-01-15) #quarterly #strategic
-- [ ] Q2 PI Planning Event @due(2025-04-15) #quarterly #strategic
-- [ ] Q3 PI Planning Event @due(2025-07-15) #quarterly #strategic
-- [ ] Q4 PI Planning Event @due(2025-10-15) #quarterly #strategic
+- [ ] Q1 PI Planning Event [[2025-01-15]] #quarterly #strategic
+- [ ] Q2 PI Planning Event [[2025-04-15]] #quarterly #strategic
+- [ ] Q3 PI Planning Event [[2025-07-15]] #quarterly #strategic
+- [ ] Q4 PI Planning Event [[2025-10-15]] #quarterly #strategic
 
 ## Q1 PI Planning Event Agenda #quarterly #tactical
 ### Pre-Planning Preparation #operational

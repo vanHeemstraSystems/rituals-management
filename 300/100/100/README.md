@@ -6,7 +6,7 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 1. Open [NotePlan](https://app.noteplan.co/). **Note**: Use ```Apple ID Sign In``` (**not** ```Email Sign In```), so it gets synchronized across devices.
 
-2. Click "New Calendar Note"
+2. Click "New Note"
 
 3. Title the note: "Annual Ritual Tracking 2025". **Note**: Replace ```2025``` by the year that is relevant.
 
