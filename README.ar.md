@@ -2,10 +2,10 @@
 
 # إدارة الطقوس
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -32,6 +32,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخلاصة
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
