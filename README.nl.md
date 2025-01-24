@@ -1,4 +1,4 @@
-rituelen-management
+rituals-management
 
 # Rituelenbeheer
 
@@ -24,11 +24,11 @@ Gegenereerd met[Ritr](https://app.rytr.me)
 
 Zien[README.md](./100/README.md)
 
-## 200 - Vereisten
+## 200 - Requirements
 
 Zien[README.md](./200/README.md)
 
-## 300 - onze applicatie bouwen
+## 300 - Onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
