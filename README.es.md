@@ -1,18 +1,18 @@
-gestion-de-rituales
+rituals-management
 
 # Gestión de rituales
 
-> Línea de babosa
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
