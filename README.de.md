@@ -18,20 +18,20 @@ Ritualmanagement
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Anforderungen
 
 Sehen[README.md](./200/README.md)
 
-## 300 – Erstellen unserer Anwendung
+## 300 - Aufbau unserer Bewerbung
 
 Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Schlussfolgerung
 
 Sehen[README.md](./400/README.md)
