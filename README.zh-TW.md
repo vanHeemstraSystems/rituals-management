@@ -1,16 +1,16 @@
 儀式管理
 
-# 禮儀管理
+# 儀式管理
 
-> 板條
+> 斯拉格萊恩
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
--   [主辦單位](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Hosts](./HOSTS.md)
+-   [圖像](./IMAGES.md)
 -   [Subman](./PODMAN.md)
--   [參考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遙測](./TELEMETRY.md)
 
@@ -18,13 +18,13 @@
 
 文字
 
-生成於[ritr](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
 ## 100-簡介
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
