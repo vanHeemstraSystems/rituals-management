@@ -6,8 +6,8 @@
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
--   [主办方](./HOSTS.md)
+-   [词汇表](./GLOSSARY.md)
+-   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -16,11 +16,11 @@
 
 **执行摘要**
 
-文本
+Text
 
-生成于[里特尔](https://app.rytr.me)
+生成于[ritr](https://app.rytr.me)
 
-## 100 - 简介
+## 100-简介
 
 看[README.md](./100/README.md)
 
