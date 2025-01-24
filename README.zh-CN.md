@@ -1,10 +1,10 @@
 仪式管理
 
-# 礼仪管理
+# Rituals Management
 
 > 板条
 
--   [DNS](./DNS.md)
+-   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主持人](./HOSTS.md)
@@ -18,7 +18,7 @@
 
 文本
 
-生成于[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -28,10 +28,10 @@
 
 看[README.md](./200/README.md)
 
-## 300-构建我们的应用程序
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
-## 400-结论
+## 400 - 结论
 
 看[README.md](./400/README.md)
