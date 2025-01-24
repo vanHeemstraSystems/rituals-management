@@ -1,4 +1,4 @@
-طقوس إدارة
+إدارة الطقوس
 
 # إدارة الطقوس
 
@@ -6,7 +6,7 @@
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
@@ -28,7 +28,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
