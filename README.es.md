@@ -12,7 +12,7 @@ gestión de rituales
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetría](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
