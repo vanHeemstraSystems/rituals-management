@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [رجل فرعي](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -18,7 +18,7 @@
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+Generated with [ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
@@ -28,7 +28,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
