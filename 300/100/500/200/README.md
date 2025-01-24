@@ -29,6 +29,10 @@ com.microsoft.appcenter*
 ```
 .gitignore
 
-7. Make your first push on Mac! First, you need to commit by entering a message (such as "Initial Commit") and click Commit.
+7. Make your first push on Mac (here: Mac Mini)! First, you need to commit by entering a message (such as "Initial Commit") and click Commit.
+
+8. On iOS (here; iPad), close NotePlan and open ```NotePlan```’s folder in the Files app in "On my iPhone/iPad" and delete any files in there, so they don’t cause issues. **Warning**: make sure the files on your Mac are the most recent files. If not copy them over to your Mac from your iOS device.
+
+9. Setup [Working Copy]() the same on iOS. Tap on the plus icon at the top left and then on “Setup synced directory” and select NotePlan’s folder in “On my iPad/iPhone”.
 
 MORE ...
