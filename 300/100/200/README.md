@@ -87,3 +87,225 @@ Tags:
 ## Reflection Notes #strategic
 - Space for insights, challenges, and improvements
 ```
+
+## 300 - Quarterly Program Increment Planning Event (PIPE)
+
+**First Quarter: January - March**
+
+```markdown
+# Q1 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
+
+## Preparation Phase @due(2025-01-01) #tactical #operational
+- [ ] Gather previous PI performance metrics
+- [ ] Collect team capacity reports
+- [ ] Review organizational strategic objectives
+- [ ] Compile program backlog
+- [ ] Identify key stakeholders
+
+## PI Planning Event Agenda #quarterly #strategic
+
+### Day 1: Strategic Alignment
+#### Morning Session
+- [ ] Executive Vision Presentation @due(2025-01-15)
+- [ ] Current Business Objectives Review
+- [ ] Market and Customer Insights
+- [ ] Technical Architecture Briefing
+
+#### Afternoon Session
+- [ ] Team Capacity Planning
+- [ ] Initial Feature Decomposition
+- [ ] Dependency Mapping Workshop
+
+### Day 2: Execution Planning
+#### Morning Session
+- [ ] Cross-Team Synchronization
+- [ ] Program Board Development
+- [ ] Risk Identification and Mitigation
+
+#### Afternoon Session
+- [ ] Confidence Voting
+- [ ] PI Objectives Finalization
+- [ ] Communication Plan Development
+
+## Post-Event Deliverables #operational
+- [ ] Finalized PI Objectives Document
+- [ ] Updated Program Backlog
+- [ ] Dependency Tracking Sheet
+- [ ] Communication Plan
+
+## Metrics Tracking #tactical
+- [ ] Planned Velocity
+- [ ] Team Capacity
+- [ ] Identified Risks
+- [ ] Strategic Alignment Score
+
+## Reflection and Continuous Improvement #strategic
+- [ ] Key Insights
+- [ ] Improvement Opportunities
+- [ ] Lessons Learned
+```
+
+**Second Quarter: April - June**
+
+```markdown
+# Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
+
+## Preparation Phase @due(2025-04-01) #tactical #operational
+- [ ] Gather previous PI performance metrics
+- [ ] Collect team capacity reports
+- [ ] Review organizational strategic objectives
+- [ ] Compile program backlog
+- [ ] Identify key stakeholders
+
+## PI Planning Event Agenda #quarterly #strategic
+
+### Day 1: Strategic Alignment
+#### Morning Session
+- [ ] Executive Vision Presentation @due(2025-04-15)
+- [ ] Current Business Objectives Review
+- [ ] Market and Customer Insights
+- [ ] Technical Architecture Briefing
+
+#### Afternoon Session
+- [ ] Team Capacity Planning
+- [ ] Initial Feature Decomposition
+- [ ] Dependency Mapping Workshop
+
+### Day 2: Execution Planning
+#### Morning Session
+- [ ] Cross-Team Synchronization
+- [ ] Program Board Development
+- [ ] Risk Identification and Mitigation
+
+#### Afternoon Session
+- [ ] Confidence Voting
+- [ ] PI Objectives Finalization
+- [ ] Communication Plan Development
+
+## Post-Event Deliverables #operational
+- [ ] Finalized PI Objectives Document
+- [ ] Updated Program Backlog
+- [ ] Dependency Tracking Sheet
+- [ ] Communication Plan
+
+## Metrics Tracking #tactical
+- [ ] Planned Velocity
+- [ ] Team Capacity
+- [ ] Identified Risks
+- [ ] Strategic Alignment Score
+
+## Reflection and Continuous Improvement #strategic
+- [ ] Key Insights
+- [ ] Improvement Opportunities
+- [ ] Lessons Learned
+```
+
+**Third Quarter: July - August**
+
+```markdown
+# Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
+
+## Preparation Phase @due(2025-07-01) #tactical #operational
+- [ ] Gather previous PI performance metrics
+- [ ] Collect team capacity reports
+- [ ] Review organizational strategic objectives
+- [ ] Compile program backlog
+- [ ] Identify key stakeholders
+
+## PI Planning Event Agenda #quarterly #strategic
+
+### Day 1: Strategic Alignment
+#### Morning Session
+- [ ] Executive Vision Presentation @due(2025-07-15)
+- [ ] Current Business Objectives Review
+- [ ] Market and Customer Insights
+- [ ] Technical Architecture Briefing
+
+#### Afternoon Session
+- [ ] Team Capacity Planning
+- [ ] Initial Feature Decomposition
+- [ ] Dependency Mapping Workshop
+
+### Day 2: Execution Planning
+#### Morning Session
+- [ ] Cross-Team Synchronization
+- [ ] Program Board Development
+- [ ] Risk Identification and Mitigation
+
+#### Afternoon Session
+- [ ] Confidence Voting
+- [ ] PI Objectives Finalization
+- [ ] Communication Plan Development
+
+## Post-Event Deliverables #operational
+- [ ] Finalized PI Objectives Document
+- [ ] Updated Program Backlog
+- [ ] Dependency Tracking Sheet
+- [ ] Communication Plan
+
+## Metrics Tracking #tactical
+- [ ] Planned Velocity
+- [ ] Team Capacity
+- [ ] Identified Risks
+- [ ] Strategic Alignment Score
+
+## Reflection and Continuous Improvement #strategic
+- [ ] Key Insights
+- [ ] Improvement Opportunities
+- [ ] Lessons Learned
+```
+
+**Fourth Quarter: October - December**
+
+```markdown
+# Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
+
+## Preparation Phase @due(2025-10-01) #tactical #operational
+- [ ] Gather previous PI performance metrics
+- [ ] Collect team capacity reports
+- [ ] Review organizational strategic objectives
+- [ ] Compile program backlog
+- [ ] Identify key stakeholders
+
+## PI Planning Event Agenda #quarterly #strategic
+
+### Day 1: Strategic Alignment
+#### Morning Session
+- [ ] Executive Vision Presentation @due(2025-10-15)
+- [ ] Current Business Objectives Review
+- [ ] Market and Customer Insights
+- [ ] Technical Architecture Briefing
+
+#### Afternoon Session
+- [ ] Team Capacity Planning
+- [ ] Initial Feature Decomposition
+- [ ] Dependency Mapping Workshop
+
+### Day 2: Execution Planning
+#### Morning Session
+- [ ] Cross-Team Synchronization
+- [ ] Program Board Development
+- [ ] Risk Identification and Mitigation
+
+#### Afternoon Session
+- [ ] Confidence Voting
+- [ ] PI Objectives Finalization
+- [ ] Communication Plan Development
+
+## Post-Event Deliverables #operational
+- [ ] Finalized PI Objectives Document
+- [ ] Updated Program Backlog
+- [ ] Dependency Tracking Sheet
+- [ ] Communication Plan
+
+## Metrics Tracking #tactical
+- [ ] Planned Velocity
+- [ ] Team Capacity
+- [ ] Identified Risks
+- [ ] Strategic Alignment Score
+
+## Reflection and Continuous Improvement #strategic
+- [ ] Key Insights
+- [ ] Improvement Opportunities
+- [ ] Lessons Learned
+```
