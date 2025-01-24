@@ -17,3 +17,7 @@ See [README.md](./300/README.md)
 ## 400 - Dashboard
 
 See [README.md](./400/README.md)
+
+## 500 - Sync with Git
+
+See [README.md](./500/README.md)
