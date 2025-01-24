@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+rituals-management
+# Rituals Management
 
 > Slugline
 
@@ -10,6 +10,7 @@ repository-name
 - [Images](./IMAGES.md)
 - [Podman](./PODMAN.md)
 - [References](./REFERENCES.md)
+- [Requirements](./REQUIREMENTS.md)
 - [Telemetry](./TELEMETRY.md)
 
 **Executive Summary**

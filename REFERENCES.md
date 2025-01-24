@@ -1,4 +1,4 @@
 # References
 
-- [Reference Name](https://example.com)
+- [NotePlan](https://app.noteplan.co/)
 - [RepoToText](https://github.com/GeekyGhost/RepoToText)
