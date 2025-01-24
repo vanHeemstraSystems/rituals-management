@@ -1,11 +1,11 @@
-طقوس إدارة
+إدارة الطقوس
 
 # إدارة الطقوس
 
 > Slugline
 
 -   [DNS](./DNS.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -28,7 +28,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
