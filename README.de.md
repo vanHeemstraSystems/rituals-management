@@ -1,4 +1,4 @@
-Rituale-Management
+Ritualmanagement
 
 # Ritualmanagement
 
@@ -6,7 +6,7 @@ Rituale-Management
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Subman](./PODMAN.md)
@@ -28,10 +28,10 @@ Sehen[README.md](./100/README.md)
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Aufbau unserer Bewerbung
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Schlussfolgerung
 
-Sehen[README.md](./400/README.md)
+See [README.md](./400/README.md)
