@@ -1,11 +1,11 @@
 儀式管理
 
-# 禮儀管理
+# 儀式管理
 
 > 板條
 
--   [DNS](./DNS.md)
--   [文件](./DOCUMENTATION.md)
+-   [域名系統](./DNS.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
 -   [圖片](./IMAGES.md)
@@ -18,17 +18,17 @@
 
 文字
 
-生成於[里特爾](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - 要求
 
-看[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
-## 300-構建我們的應用程序
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
