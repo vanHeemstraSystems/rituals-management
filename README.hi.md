@@ -1,4 +1,4 @@
-अनुष्ठान-प्रबंधन
+rituals-management
 
 # अनुष्ठान प्रबंधन
 
@@ -7,18 +7,18 @@
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
--   [मेजबान](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
 मूलपाठ
 
-के साथ उत्पन्न हुआ[रिट्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -28,7 +28,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे आवेदन का निर्माण
+## 300 - हमारे एप्लिकेशन का निर्माण
 
 देखना[README.md](./300/README.md)
 
