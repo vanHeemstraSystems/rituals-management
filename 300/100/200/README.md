@@ -1,7 +1,18 @@
 # 200 - Program Increment Planning Events (PIPE)s
 
-## 100 - Program Increment Planning Events (PIPE) template
+To be able to set plan following the Scaled Agile (SAfe) methodology in NotePlan follow these steps:
 
+## 100 - Create the Base Note
+
+1. Open [NotePlan](https://app.noteplan.co/). **Note**: Use ```Apple ID Sign In``` (**not** ```Email Sign In```), so it gets synchronized across devices.
+
+2. Click "New Note"
+
+3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant.
+
+## 200 - Basic Structure
+
+**Note**: Replace ```2025``` below by the year that is relevant.
 
 ```markdown
 # 2025 PI Planning Tracker #strategic #agile #safe
