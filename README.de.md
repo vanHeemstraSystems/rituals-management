@@ -1,4 +1,4 @@
-rituals-management
+Rituale-Management
 
 # Ritualmanagement
 
@@ -6,7 +6,7 @@ rituals-management
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -24,7 +24,7 @@ Erstellt mit[Ritr](https://app.rytr.me)
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Anforderungen
 
 Sehen[README.md](./200/README.md)
 
@@ -32,6 +32,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Schlussfolgerung
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
