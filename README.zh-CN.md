@@ -1,14 +1,14 @@
 仪式管理
 
-# Rituals Management
+# 礼仪管理
 
 > 斯拉格莱恩
 
--   [DNS](./DNS.md)
+-   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
--   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [词汇表](./GLOSSARY.md)
+-   [主办方](./HOSTS.md)
+-   [图片](./IMAGES.md)
 -   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -18,7 +18,7 @@
 
 文本
 
-生成于[ritr](https://app.rytr.me)
+生成于[里特尔](https://app.rytr.me)
 
 ## 100-简介
 
