@@ -1,4 +1,4 @@
-Rituale-Management
+rituals-management
 
 # Ritualmanagement
 
@@ -9,7 +9,7 @@ Rituale-Management
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -18,17 +18,17 @@ Rituale-Management
 
 Text
 
-Erzeugt mit[Rytr](https://app.rytr.me)
+Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
-## 300 – Erstellen unserer Anwendung
+## 300 - Aufbau unserer Bewerbung
 
 Sehen[README.md](./300/README.md)
 
