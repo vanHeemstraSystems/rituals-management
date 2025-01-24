@@ -2,14 +2,14 @@ Rituals-Management
 
 # Gestion des rituels
 
-> Lisc
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Sous-homme](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
