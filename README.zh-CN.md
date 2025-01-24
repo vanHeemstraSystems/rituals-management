@@ -2,16 +2,16 @@
 
 # Rituals Management
 
-> Slugline
+> 斯拉格莱恩
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
--   [词汇表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [主持人](./HOSTS.md)
--   [图片](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Images](./IMAGES.md)
+-   [Subman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
@@ -24,7 +24,7 @@
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
@@ -32,6 +32,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400-结论
 
 看[README.md](./400/README.md)
