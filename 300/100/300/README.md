@@ -8,7 +8,8 @@ In NotePlan, you can make activities show in the calendar by using specific date
 
 2. Calendar View Activation
 - Click on the calendar icon in NotePlan
-- Ensure the date tags are correctly formatted
+- Ensure the date tags are correctly formatted ```YYYY-MM-DD```
+- Use the calendar specific tag like ```@daily``` for the daily calendar
 - Events and tasks with dates will automatically populate
 
 3. Recommended Date Tagging Strategy
@@ -16,18 +17,18 @@ In NotePlan, you can make activities show in the calendar by using specific date
 ```markdown
 # Q1 2025 Program Increment Planning Event
 
-## Preparation Phase @due(2025-01-01) #quarterly #tactical
-- [ ] Gather performance metrics @due(2025-01-05)
-- [ ] Collect team capacity reports @due(2025-01-10)
+## Preparation Phase
+- [ ] Gather performance metrics >2025-01-05 #quarterly #tactical @daily
+- [ ] Collect team capacity reports >2025-01-10 #quarterly #tactical @quarterly
 
-## PI Planning Event @due(2025-01-15)
-- [ ] Day 1 Morning Session @due(2025-01-15)
-- [ ] Day 1 Afternoon Session @due(2025-01-15)
-- [ ] Day 2 Morning Session @due(2025-01-16)
-- [ ] Day 2 Afternoon Session @due(2025-01-16)
+## PI Planning Event
+- [ ] Day 1 Morning Session >2025-01-15 #quarterly #strategic @quarterly
+- [ ] Day 1 Afternoon Session >2025-01-15 #quarterly #strategic @quarterly
+- [ ] Day 2 Morning Session >2025-01-16 #quarterly #tactical @quarterly
+- [ ] Day 2 Afternoon Session >2025-01-16 #quarterly #tactical @quarterly
 ```
 
 4. Additional Calendar Integration Tips
-- Use consistent date formatting
-- Add time if needed: `@due(2025-01-15 09:00)`
+- Use consistent date formatting ```YYYY-MM-DD```
+- Add time if needed: `>2025-01-15 09:00`
 - Tag with recurring event indicators if applicable
