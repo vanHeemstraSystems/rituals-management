@@ -1,8 +1,8 @@
-Rituals-Management
+gestion des rituels
 
-# Gestion des rituels
+# Gestion des Rituels
 
-> Slugline
+> Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -26,9 +26,9 @@ Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
-See [README.md](./200/README.md)
+Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
