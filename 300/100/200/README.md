@@ -10,6 +10,13 @@ To be able to set plan following the Scaled Agile (SAfe) methodology in NotePlan
 
 3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant. See how we make use of the tagging introduced earlier, to distinguish when an activity is taking place (e.g. ```Quarterly```) and at whcih level (e.g. ```Strategic```).
 
+Tags:
+- `#annual` for the overall yearly plan
+- `#quarterly` for quarterly-specific activities
+- `#strategic` for high-level planning and vision
+- `#tactical` for intermediate-term objectives
+- `#operational` for day-to-day execution tasks
+
 ## 200 - Basic Structure
 
 **Note**: Replace ```2025``` below by the year that is relevant.
@@ -79,10 +86,3 @@ To be able to set plan following the Scaled Agile (SAfe) methodology in NotePlan
 ## Reflection Notes #strategic
 - Space for insights, challenges, and improvements
 ```
-
-I've added the following tags:
-- `#annual` for the overall yearly plan
-- `#quarterly` for quarterly-specific activities
-- `#strategic` for high-level planning and vision
-- `#tactical` for intermediate-term objectives
-- `#operational` for day-to-day execution tasks
