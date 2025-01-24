@@ -1,11 +1,11 @@
-طقوس إدارة
+إدارة الطقوس
 
 # إدارة الطقوس
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
