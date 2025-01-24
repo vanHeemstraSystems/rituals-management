@@ -1,4 +1,4 @@
-rituals-management
+gestión de rituales
 
 # Gestión de rituales
 
@@ -8,11 +8,11 @@ rituals-management
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
--   [Imágenes](./IMAGES.md)
--   [Submario](./PODMAN.md)
+-   [Images](./IMAGES.md)
+-   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetría](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
