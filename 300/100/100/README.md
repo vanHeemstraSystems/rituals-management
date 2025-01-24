@@ -8,9 +8,11 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 2. Click "New Note"
 
-3. Title the note: "Annual Ritual Tracking 2025"
+3. Title the note: "Annual Ritual Tracking 2025". **Note**: Replace ```2025``` by the year that is relevant.
 
 ## 200 - Basic Structure
+
+**Note**: Replace ```2025``` below by the year that is relevant.
 
 ```markdown
 # Annual Ritual Tracking 2025
