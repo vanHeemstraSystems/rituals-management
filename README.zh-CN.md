@@ -1,14 +1,14 @@
 仪式管理
 
-# 仪式管理
+# 礼仪管理
 
-> 斯拉格莱恩
+> 板条
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主办方](./HOSTS.md)
--   [图片](./IMAGES.md)
+-   [图像](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -24,7 +24,7 @@
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
@@ -32,6 +32,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400-结论
 
 看[README.md](./400/README.md)
