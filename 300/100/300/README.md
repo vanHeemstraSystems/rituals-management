@@ -3,7 +3,7 @@
 In NotePlan, you can make activities show in the calendar by using specific date tags and formatting. Here are the key methods:
 
 1. Date Tagging
-- Use `@due(YYYY-MM-DD)` for specific dates, however a more reliable format is `>YYYY-MM-DD`, but still better is `[[YYYY-MM-DD]]` as it updates the text on the calendar day if changed in the note.
+- Use `@due(YYYY-MM-DD)` for specific dates, however a more reliable format is `>YYYY-MM-DD`, but still better is `[[YYYY-MM-DD]]` as it updates the text on the calendar day if changed in the note. Best of all though is to use each and everyone of them together to benefit from all features: `[[2025-01-15]] @due(2025-01-15) >2025-01-15 @quarterly`.
 - Example: `@due(2025-01-15)`, better `>2025-01-15`, still better `[[2025-01-15]]`
 - It is recommended to link to dates at task level (e.g. ```Gather performance metrics```) rather than at list level (e.g. ```Preparation Phase```).
 

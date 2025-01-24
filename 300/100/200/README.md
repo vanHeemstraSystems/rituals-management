@@ -18,7 +18,7 @@ Tags:
 - `#operational` for day-to-day execution tasks
 
 Links:
-- Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink.
+- Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink. Best of all though is to use each and everyone of them together to benefit from all features: `[[2025-01-15]] @due(2025-01-15) >2025-01-15 @quarterly`.
 - It is recommended to link to dates at task level (e.g. ```Gather performance metrics```) rather than at list level (e.g. ```Preparation Phase```).
 
 Date notations have slightly different purposes:
