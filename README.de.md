@@ -9,7 +9,7 @@ Ritualmanagement
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -18,13 +18,13 @@ Ritualmanagement
 
 Text
 
-Generated with [Ritr](https://app.rytr.me)
+Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Anforderungen
+## 200 – Anforderungen
 
 Sehen[README.md](./200/README.md)
 
