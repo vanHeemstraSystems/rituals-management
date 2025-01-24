@@ -18,6 +18,17 @@ Repository Name: ```co.noteplan.NotePlan3```
 
 **Note**: Make sure to change the user name ```[your user name]``` in your local path to your Mac's username, if you copy it from above. 
 
+5. Copy any files back which you have backed up before.
 
+6. Now we need to ignore some folders from syncing, otherwise, they will create conflicts continuously. Ignore the folder ```Caches```, ```com.microsoft.appcenter```, and files ending with ```.log```. You can do this in the Visual Studio Code in a new ```.gitignore``` file in the root of the repository:
+
+```
+Caches*
+*.log
+com.microsoft.appcenter*
+```
+.gitignore
+
+7. Make your first push on Mac! First, you need to commit by entering a message (such as "Initial Commit") and click Commit.
 
 MORE ...
