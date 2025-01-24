@@ -72,9 +72,21 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 ## 300 - Linking Strategy
 
+- Use double square brackets `[[]]` to link to:
+  - Detailed quarterly plans
+  - Specific project notes
+  - Reflection documents
 
 ## 400 - Tagging Approach
 
+- Add relevant tags:
+  - `#annual`
+  - `#strategic`
+  - `#tactical`
+  - `#operational`
 
 ## 500 - Maintenance Tips
 
+- Review and update monthly
+- Check off completed items
+- Add new insights as they emerge
