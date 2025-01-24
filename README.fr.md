@@ -6,12 +6,12 @@ gestion des rituels
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Sous-homme](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
@@ -24,13 +24,13 @@ Généré avec[Ritr](https://app.rytr.me)
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
-Voir[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusion
 
