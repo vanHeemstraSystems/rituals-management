@@ -5,12 +5,12 @@
 > سلوجلاين
 
 -   [DNS](./DNS.md)
--   [التوثيق](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
+-   [الوثائق](./DOCUMENTATION.md)
+-   [Glossary](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
