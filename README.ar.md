@@ -1,18 +1,18 @@
-طقوس إدارة
+إدارة الطقوس
 
 # إدارة الطقوس
 
-> Slugline
+> سلوجلاين
 
 -   [DNS](./DNS.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
@@ -22,7 +22,7 @@
 
 ## 100 - مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
@@ -32,6 +32,6 @@ See [README.md](./100/README.md)
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - الخلاصة
 
-See [README.md](./400/README.md)
+يرى[README.md](./400/README.md)
