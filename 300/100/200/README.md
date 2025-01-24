@@ -21,6 +21,38 @@ Links:
 - Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink.
 - It is recommended to link to dates at task level (e.g. ```Gather performance metrics```) rather than at list level (e.g. ```Preparation Phase```).
 
+Date notations have slightly different purposes:
+
+1. `[[2025-01-15]]`
+- Creates a two-way link to a calendar day
+- Updates text across linked notes
+- Visible in calendar
+- Primary method for calendar integration
+
+2. `>2025-01-15`
+- Marks a task or event's date
+- Often used for recurring events
+- Helps with scheduling and filtering
+- Can be used with calendar tags like `@daily`, `@weekly`
+
+3. `@due(2025-01-15)`
+- Primarily a task management feature
+- Sets a deadline or due date for a task
+- Does not necessarily link to calendar
+- Useful for tracking task completion deadlines
+- Can be used alongside calendar links
+
+Example:
+```markdown
+- [ ] Submit quarterly report [[2025-01-15]] @due(2025-01-15) >2025-01-15 @quarterly
+```
+
+This comprehensive approach combines:
+- Calendar linking
+- Deadline tracking
+- Scheduling
+- Calendar tag
+
 ## 200 - Basic Structure
 
 **Note**: Replace ```2025``` below by the year that is relevant.

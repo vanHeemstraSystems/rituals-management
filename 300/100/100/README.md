@@ -83,6 +83,38 @@ Links:
   - Specific project notes
   - Reflection documents
 
+- Date notations have slightly different purposes:
+
+1. `[[2025-01-15]]`
+- Creates a two-way link to a calendar day
+- Updates text across linked notes
+- Visible in calendar
+- Primary method for calendar integration
+
+2. `>2025-01-15`
+- Marks a task or event's date
+- Often used for recurring events
+- Helps with scheduling and filtering
+- Can be used with calendar tags like `@daily`, `@weekly`
+
+3. `@due(2025-01-15)`
+- Primarily a task management feature
+- Sets a deadline or due date for a task
+- Does not necessarily link to calendar
+- Useful for tracking task completion deadlines
+- Can be used alongside calendar links
+
+Example:
+```markdown
+- [ ] Submit quarterly report [[2025-01-15]] @due(2025-01-15) >2025-01-15 @quarterly
+```
+
+This comprehensive approach combines:
+- Calendar linking
+- Deadline tracking
+- Scheduling
+- Calendar tag
+
 ## 400 - Tagging Approach
 
 - Add relevant tags:
