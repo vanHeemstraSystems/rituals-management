@@ -13,7 +13,7 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 ## 200 - Basic Structure
 
 ```markdown
-# Annual Ritual Tracking 2024
+# Annual Ritual Tracking 2025
 
 ## Vision Statement
 - [x] Capture the overarching purpose and direction for the year
