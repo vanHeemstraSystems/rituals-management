@@ -12,6 +12,7 @@ To be able to set different levels (e.g. Strategic, Tactial, Operational) in Not
 
 Links:
 - Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink.
+- It is recommended to link to dates at task level (e.g. ```Gather performance metrics```) rather than at list level (e.g. ```Preparation Phase```).
 
 ## 200 - Basic Structure
 

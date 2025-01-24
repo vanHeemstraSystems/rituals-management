@@ -19,6 +19,7 @@ Tags:
 
 Links:
 - Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink.
+- It is recommended to link to dates at task level (e.g. ```Gather performance metrics```) rather than at list level (e.g. ```Preparation Phase```).
 
 ## 200 - Basic Structure
 
@@ -98,12 +99,12 @@ Links:
 ```markdown
 # Q1 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase [[2025-01-01]] #tactical #operational
-- [ ] Gather previous PI performance metrics
-- [ ] Collect team capacity reports
-- [ ] Review organizational strategic objectives
-- [ ] Compile program backlog
-- [ ] Identify key stakeholders
+## Preparation Phase
+- [ ] Gather previous PI performance metrics [[2025-01-01]] #tactical #operational
+- [ ] Collect team capacity reports [[2025-01-01]] #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-01-01]] #tactical #operational
+- [ ] Compile program backlog [[2025-01-01]] #tactical #operational
+- [ ] Identify key stakeholders [[2025-01-01]] #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
@@ -153,12 +154,12 @@ Links:
 ```markdown
 # Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase [[2025-04-01]] #tactical #operational
-- [ ] Gather previous PI performance metrics
-- [ ] Collect team capacity reports
-- [ ] Review organizational strategic objectives
-- [ ] Compile program backlog
-- [ ] Identify key stakeholders
+## Preparation Phase
+- [ ] Gather previous PI performance metrics [[2025-04-01]] #tactical #operational
+- [ ] Collect team capacity reports [[2025-04-01]] #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-04-01]] #tactical #operational
+- [ ] Compile program backlog [[2025-04-01]] #tactical #operational
+- [ ] Identify key stakeholders [[2025-04-01]] #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
@@ -208,12 +209,12 @@ Links:
 ```markdown
 # Q3 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase [[2025-07-01]] #tactical #operational
-- [ ] Gather previous PI performance metrics
-- [ ] Collect team capacity reports
-- [ ] Review organizational strategic objectives
-- [ ] Compile program backlog
-- [ ] Identify key stakeholders
+## Preparation Phase
+- [ ] Gather previous PI performance metrics [[2025-07-01]] #tactical #operational
+- [ ] Collect team capacity reports [[2025-07-01]] #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-07-01]] #tactical #operational
+- [ ] Compile program backlog [[2025-07-01]] #tactical #operational
+- [ ] Identify key stakeholders [[2025-07-01]] #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
@@ -263,12 +264,12 @@ Links:
 ```markdown
 # Q4 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase [[2025-10-01]] #tactical #operational
-- [ ] Gather previous PI performance metrics
-- [ ] Collect team capacity reports
-- [ ] Review organizational strategic objectives
-- [ ] Compile program backlog
-- [ ] Identify key stakeholders
+## Preparation Phase
+- [ ] Gather previous PI performance metrics [[2025-10-01]] #tactical #operational
+- [ ] Collect team capacity reports [[2025-10-01]] #tactical #operational
+- [ ] Review organizational strategic objectives [[2025-10-01]] #tactical #operational
+- [ ] Compile program backlog [[2025-10-01]] #tactical #operational
+- [ ] Identify key stakeholders [[2025-10-01]] #tactical #operational
 
 ## PI Planning Event Agenda #quarterly #strategic
 
