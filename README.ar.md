@@ -1,26 +1,26 @@
-إدارة الطقوس
+طقوس إدارة
 
-# إدارة الطقوس
+# Rituals Management
 
-> Slugline
+> سلوجلاين
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 نص
 
-Generated with [ريتر](https://app.rytr.me)
+ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -28,10 +28,10 @@ Generated with [ريتر](https://app.rytr.me)
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخلاصة
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
