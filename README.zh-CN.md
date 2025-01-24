@@ -2,12 +2,12 @@
 
 # 仪式管理
 
-> 斯拉格莱恩
+> 板条
 
--   [域名系统](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [主办方](./HOSTS.md)
+-   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [参考](./REFERENCES.md)
@@ -18,7 +18,7 @@
 
 文本
 
-生成[里特尔](https://app.rytr.me)
+生成于[里特尔](https://app.rytr.me)
 
 ## 100 - 简介
 
@@ -30,7 +30,7 @@
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400-结论
 
