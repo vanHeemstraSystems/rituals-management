@@ -1,4 +1,4 @@
-gestion des rituels
+rituals-management
 
 # Gestion des rituels
 
@@ -18,13 +18,13 @@ gestion des rituels
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
