@@ -203,7 +203,7 @@ Tags:
 **Third Quarter: July - August**
 
 ```markdown
-# Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
+# Q3 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
 ## Preparation Phase @due(2025-07-01) #tactical #operational
 - [ ] Gather previous PI performance metrics
@@ -258,7 +258,7 @@ Tags:
 **Fourth Quarter: October - December**
 
 ```markdown
-# Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
+# Q4 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
 ## Preparation Phase @due(2025-10-01) #tactical #operational
 - [ ] Gather previous PI performance metrics
