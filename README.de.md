@@ -1,4 +1,4 @@
-Ritualmanagement
+rituals-management
 
 # Ritualmanagement
 
@@ -6,7 +6,7 @@ Ritualmanagement
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -18,7 +18,7 @@ Ritualmanagement
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
