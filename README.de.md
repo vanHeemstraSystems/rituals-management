@@ -9,7 +9,7 @@ Rituale-Management
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -18,7 +18,7 @@ Rituale-Management
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Generated with [Rytr](https://app.rytr.me)
 
 ## 100 - Einführung
 
