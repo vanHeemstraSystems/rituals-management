@@ -2,7 +2,7 @@ rituelen-management
 
 # Rituelenbeheer
 
-> Sluglijn
+> Slaklijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -14,7 +14,7 @@ rituelen-management
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Uitvoerende samenvatting**
+**Samenvatting**
 
 Tekst
 
