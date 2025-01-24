@@ -2,15 +2,15 @@ rituelen-management
 
 # Rituelenbeheer
 
-> Slaklijn
+> Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Beelden](./IMAGES.md)
--   [Ingetogen](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Afbeeldingen](./IMAGES.md)
+-   [Subman](./PODMAN.md)
+-   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
@@ -18,15 +18,15 @@ rituelen-management
 
 Tekst
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Gegenereerd met[Rytr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
 Zien[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Vereisten
 
-See [README.md](./200/README.md)
+Zien[README.md](./200/README.md)
 
 ## 300 - onze applicatie bouwen
 
