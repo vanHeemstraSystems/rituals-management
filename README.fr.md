@@ -1,16 +1,16 @@
-rituals-management
+gestion des rituels
 
-# Rituals Management
+# Gestion des Rituels
 
-> Slugline
+> Lisc
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Tamisé](./PODMAN.md)
+-   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
@@ -18,20 +18,20 @@ rituals-management
 
 Texte
 
-Généré avec[Rytr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
-## 200 - exigences
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-Voir[README.md](./400/README.md)
+See [README.md](./400/README.md)
