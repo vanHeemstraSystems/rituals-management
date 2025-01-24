@@ -6,4 +6,5 @@
 - [My daily workflow and why you don't need an Inbox](https://www.youtube.com/watch?v=Rc0zVuL8w1k)
 - [NotePlan Dashboard](https://github.com/biznachio/NotePlan-Dashboard)
 - [5 Ways to Make Your Mac's Desktop Better With GeekTool](https://computers.tutsplus.com/5-ways-to-make-your-macs-desktop-better-with-geektool--mac-44444t)
+- [Sync with Git](https://help.noteplan.co/article/102-sync-with-git)
 - [RepoToText](https://github.com/GeekyGhost/RepoToText)
