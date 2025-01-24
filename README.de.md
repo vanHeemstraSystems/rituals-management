@@ -14,11 +14,11 @@ Ritualmanagement
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
-Erzeugt mit[Ritr](https://app.rytr.me)
+Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
