@@ -1,6 +1,6 @@
 Rituals-Management
 
-# Gestion des rituels
+# Gestion des Rituels
 
 > Slugline
 
@@ -9,22 +9,22 @@ Rituals-Management
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Sous-homme](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
 Texte
 
-Généré avec[Rytr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - exigences
 
 Voir[README.md](./200/README.md)
 
