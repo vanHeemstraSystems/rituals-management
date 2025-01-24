@@ -9,12 +9,12 @@
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
--   [मातहत](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [सबमैन](./PODMAN.md)
+-   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [टेलीमेटरी](./TELEMETRY.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
 मूलपाठ
 
@@ -28,7 +28,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे आवेदन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
