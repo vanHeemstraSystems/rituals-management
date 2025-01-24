@@ -21,6 +21,7 @@ Tags:
 
 **Note**: Replace ```2025``` below by the year that is relevant.
 
+```markdown
 # 2025 PI Planning Tracker #annual #strategic #agile #safe
 
 ## Program Increment (PI) Planning Schedule
