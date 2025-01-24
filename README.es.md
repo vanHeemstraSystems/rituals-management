@@ -1,26 +1,26 @@
-gestión de rituales
+gestion-de-rituales
 
 # Gestión de rituales
 
-> Línea de babosa
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generado con[Rytr](https://app.rytr.me)
+Generado con[ritr](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
@@ -34,4 +34,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-See [README.md](./400/README.md)
+Ver[README.md](./400/README.md)
