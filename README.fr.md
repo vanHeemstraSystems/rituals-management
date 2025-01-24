@@ -2,7 +2,7 @@ gestion des rituels
 
 # Gestion des Rituels
 
-> Lisc
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
