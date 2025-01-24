@@ -8,8 +8,8 @@
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
--   [Images](./IMAGES.md)
--   [मातहत](./PODMAN.md)
+-   [इमेजिस](./IMAGES.md)
+-   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -18,7 +18,7 @@
 
 मूलपाठ
 
-के साथ उत्पन्न[रिट्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
