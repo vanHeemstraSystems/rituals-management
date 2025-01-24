@@ -1,11 +1,11 @@
-إدارة الطقوس
+طقوس إدارة
 
 # إدارة الطقوس
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -20,7 +20,7 @@
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -28,7 +28,7 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
