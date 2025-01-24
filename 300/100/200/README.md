@@ -6,7 +6,7 @@ To be able to set plan following the Scaled Agile (SAfe) methodology in NotePlan
 
 1. Open [NotePlan](https://app.noteplan.co/). **Note**: Use ```Apple ID Sign In``` (**not** ```Email Sign In```), so it gets synchronized across devices.
 
-2. Click "New Note"
+2. Click "New Calendar Note"
 
 3. Title the note: "2025 PI Planning Tracker". **Note**: Replace ```2025``` by the year that is relevant. See how we make use of the tagging introduced earlier, to distinguish when an activity is taking place (e.g. ```Quarterly```) and at whcih level (e.g. ```Strategic```).
 
