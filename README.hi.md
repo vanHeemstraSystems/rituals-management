@@ -2,11 +2,11 @@
 
 # अनुष्ठान प्रबंधन
 
-> Slugline
+> स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
@@ -18,7 +18,7 @@
 
 मूलपाठ
 
-के साथ उत्पन्न हुआ[रिट्र](https://app.rytr.me)
+के साथ उत्पन्न[रित्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
@@ -28,9 +28,9 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे आवेदन का निर्माण
+## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
