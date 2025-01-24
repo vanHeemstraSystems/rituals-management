@@ -2,7 +2,7 @@
 
 # 仪式管理
 
-> 板条
+> 斯拉格莱恩
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -20,7 +20,7 @@
 
 生成[里特尔](https://app.rytr.me)
 
-## 100-简介
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
