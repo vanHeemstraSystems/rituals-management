@@ -1,14 +1,14 @@
-إدارة الطقوس
+طقوس إدارة
 
 # إدارة الطقوس
 
 > سلوجلاين
 
 -   [DNS](./DNS.md)
--   [الوثائق](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
--   [الصور](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
@@ -18,17 +18,17 @@
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+ولدت مع[Rytr](https://app.rytr.me)
 
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
