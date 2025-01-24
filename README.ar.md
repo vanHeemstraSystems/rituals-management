@@ -2,10 +2,10 @@
 
 # اسم المستودع
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
--   [التوثيق](./DOCUMENTATION.md)
+-   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
@@ -17,7 +17,7 @@
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+Generated with [Rytr](https://app.rytr.me)
 
 ## 100- مقدمة
 
@@ -31,6 +31,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - الخلاصة
 
 يرى[README.md](./400/README.md)
