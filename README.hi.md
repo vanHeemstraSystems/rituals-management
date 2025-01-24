@@ -12,13 +12,13 @@
 -   [सबमैन](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [आवश्यकताएं](./REQUIREMENTS.md)
--   [टेलीमेटरी](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
 मूलपाठ
 
-के साथ उत्पन्न[रिट्र](https://app.rytr.me)
+के साथ उत्पन्न हुआ[रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
