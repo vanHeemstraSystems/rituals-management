@@ -9,7 +9,7 @@ gestion-de-rituales
 -   [Glosario](./GLOSSARY.md)
 -   [Anfitriones](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
--   [Submario](./PODMAN.md)
+-   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
@@ -18,7 +18,7 @@ gestion-de-rituales
 
 Texto
 
-Generado con[Ritro](https://app.rytr.me)
+Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
