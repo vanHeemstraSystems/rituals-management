@@ -1,6 +1,6 @@
 儀式管理
 
-# 儀式管理
+# 禮儀管理
 
 > 斯拉格萊恩
 
@@ -18,20 +18,20 @@
 
 文字
 
-生成[里特爾](https://app.rytr.me)
+生成於[里特爾](https://app.rytr.me)
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200-要求
 
 看[README.md](./200/README.md)
 
-## 300-構建我們的應用程序
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
-## 400 - 結論
+## 400-結論
 
 看[README.md](./400/README.md)
