@@ -8,13 +8,13 @@ rituelen-management
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Beelden](./IMAGES.md)
--   [Ingetogen](./PODMAN.md)
+-   [Afbeeldingen](./IMAGES.md)
+-   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Uitvoerende samenvatting**
+**Executive Summary**
 
 Tekst
 
