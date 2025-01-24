@@ -1,22 +1,22 @@
-rituals-management
+rituelen-management
 
-# Rituals Management
+# Rituelenbeheer
 
-> Slaklijn
+> Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
--   [Images](./IMAGES.md)
--   [Podman](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Requirements](./REQUIREMENTS.md)
+-   [Beelden](./IMAGES.md)
+-   [Subman](./PODMAN.md)
+-   [Referenties](./REFERENCES.md)
+-   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Samenvatting**
+**Uitvoerende samenvatting**
 
-Text
+Tekst
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
