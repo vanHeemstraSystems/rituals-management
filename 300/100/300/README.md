@@ -33,3 +33,7 @@ In NotePlan, you can make activities show in the calendar by using specific date
 - Use consistent date formatting `[[YYYY-MM-DD]]`
 - Add time if needed: `[[2025-01-15 09:00]]`
 - Tag with recurring event indicators if applicable
+
+5. Calender Entries
+- If you have linked an item of a Note to a date in a Calendar, the Calendar view will show the item in a grey box. Clicking anywhere within the grey box from the Calendar view will bring you back to the Note it references.
+- If you click on a checkbox within a grey box in a Calender view, the checkbox item will be marked as ticked without the need to go bak to the Note it is part of.
