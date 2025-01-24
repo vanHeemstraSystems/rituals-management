@@ -1,16 +1,17 @@
-repository-naam
+rituelen-management
 
-# Repository -naam
+# Rituelenbeheer
 
-> Slaklijn
+> Sluglijn
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
+-   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
