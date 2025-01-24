@@ -1,4 +1,4 @@
-gestión de rituales
+gestion-de-rituales
 
 # Gestión de rituales
 
