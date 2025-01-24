@@ -1,14 +1,14 @@
 儀式管理
 
-# 儀式管理
+# 禮儀管理
 
 > 板條
 
--   [DNS](./DNS.md)
+-   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
--   [圖片](./IMAGES.md)
+-   [圖像](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
@@ -18,9 +18,9 @@
 
 文字
 
-生成[ritr](https://app.rytr.me)
+生成於[ritr](https://app.rytr.me)
 
-## 100-簡介
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
