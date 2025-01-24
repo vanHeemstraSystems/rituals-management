@@ -9,8 +9,8 @@ Rituals-Management
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Tamisé](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [Sous-homme](./PODMAN.md)
+-   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
@@ -18,15 +18,15 @@ Rituals-Management
 
 Texte
 
-Généré avec[Rytr](https://app.rytr.me)
+Généré avec[Ritr](https://app.rytr.me)
 
 ## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - exigences
 
-Voir[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
