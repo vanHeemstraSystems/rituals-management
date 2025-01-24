@@ -1,33 +1,34 @@
-Repository-Namen
+Ritualmanagement
 
-# Repository -Name
+# Ritualmanagement
 
 > Slugline
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
+-   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
 Text
 
-Erstellt mit[Ritr](https://app.rytr.me)
+Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Anforderungen
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Aufbau unserer Bewerbung
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
