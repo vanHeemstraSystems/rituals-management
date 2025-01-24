@@ -9,12 +9,12 @@ rituelen-management
 -   [Glossarium](./GLOSSARY.md)
 -   [Gastheren](./HOSTS.md)
 -   [Afbeeldingen](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Samenvatting**
+**Uitvoerende samenvatting**
 
 Tekst
 
@@ -34,4 +34,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)
