@@ -1,8 +1,8 @@
-nombre-repositorio
+gestion-de-rituales
 
-# Nombre del repositorio
+# Gestión de rituales
 
-> Línea de babosa
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -11,19 +11,20 @@ nombre-repositorio
 -   [Imágenes](./IMAGES.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Requisitos](./REQUIREMENTS.md)
+-   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generado con[Rytr](https://app.rytr.me)
+Generado con[ritr](https://app.rytr.me)
 
 ## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
