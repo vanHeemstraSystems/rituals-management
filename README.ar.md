@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [مهزوما](./PODMAN.md)
+-   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -32,6 +32,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخلاصة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
