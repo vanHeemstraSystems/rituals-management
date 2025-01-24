@@ -1,4 +1,4 @@
-gestion des rituels
+Rituals-Management
 
 # Gestion des rituels
 
@@ -6,17 +6,17 @@ gestion des rituels
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Sous-homme](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
-Text
+Texte
 
 Généré avec[Ritr](https://app.rytr.me)
 
