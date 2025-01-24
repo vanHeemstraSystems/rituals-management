@@ -1,30 +1,30 @@
 仪式管理
 
-# 礼仪管理
+# Rituals Management
 
-> 斯拉格莱恩
+> Slugline
 
--   [域名系统](./DNS.md)
+-   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [主持人](./HOSTS.md)
--   [图像](./IMAGES.md)
--   [Subman](./PODMAN.md)
+-   [图片](./IMAGES.md)
+-   [Podman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
--   [要求](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
 文本
 
-生成[ritr](https://app.rytr.me)
+生成于[ritr](https://app.rytr.me)
 
 ## 100-简介
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
@@ -32,6 +32,6 @@
 
 看[README.md](./300/README.md)
 
-## 400-结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
