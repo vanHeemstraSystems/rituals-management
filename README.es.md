@@ -1,8 +1,8 @@
-gestion-de-rituales
+gestión de rituales
 
 # Gestión de rituales
 
-> Línea de babosa
+> línea de bala
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -12,7 +12,7 @@ gestion-de-rituales
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetria](./TELEMETRY.md)
+-   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
