@@ -1,4 +1,4 @@
-gestión de rituales
+gestion-de-rituales
 
 # Gestión de rituales
 
@@ -12,13 +12,13 @@ gestión de rituales
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Requisitos](./REQUIREMENTS.md)
--   [Telemetria](./TELEMETRY.md)
+-   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
