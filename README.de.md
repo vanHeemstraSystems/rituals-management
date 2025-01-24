@@ -9,7 +9,7 @@ Rituale-Management
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
--   [Gedämpft](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Anforderungen](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -18,17 +18,17 @@ Rituale-Management
 
 Text
 
-Erstellt mit[Ritr](https://app.rytr.me)
+Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Anforderungen
+## 200 – Anforderungen
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Aufbau unserer Bewerbung
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
