@@ -1,6 +1,6 @@
-طقوس إدارة
+إدارة الطقوس
 
-# Rituals Management
+# إدارة الطقوس
 
 > سلوجلاين
 
@@ -9,7 +9,7 @@
 -   [مسرد](./GLOSSARY.md)
 -   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
--   [رجل فرعي](./PODMAN.md)
+-   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
@@ -20,7 +20,7 @@
 
 ولدت مع[ريتر](https://app.rytr.me)
 
-## 100 - مقدمة
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -32,6 +32,6 @@
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - الخلاصة
 
 يرى[README.md](./400/README.md)
