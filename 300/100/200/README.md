@@ -98,7 +98,7 @@ Links:
 ```markdown
 # Q1 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase @due(2025-01-01) #tactical #operational
+## Preparation Phase [[2025-01-01]] #tactical #operational
 - [ ] Gather previous PI performance metrics
 - [ ] Collect team capacity reports
 - [ ] Review organizational strategic objectives
@@ -109,7 +109,7 @@ Links:
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation @due(2025-01-15)
+- [ ] Executive Vision Presentation [[2025-01-15]]
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
@@ -153,7 +153,7 @@ Links:
 ```markdown
 # Q2 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase @due(2025-04-01) #tactical #operational
+## Preparation Phase [[2025-04-01]] #tactical #operational
 - [ ] Gather previous PI performance metrics
 - [ ] Collect team capacity reports
 - [ ] Review organizational strategic objectives
@@ -164,7 +164,7 @@ Links:
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation @due(2025-04-15)
+- [ ] Executive Vision Presentation [[2025-04-15]]
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
@@ -208,7 +208,7 @@ Links:
 ```markdown
 # Q3 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase @due(2025-07-01) #tactical #operational
+## Preparation Phase [[2025-07-01]] #tactical #operational
 - [ ] Gather previous PI performance metrics
 - [ ] Collect team capacity reports
 - [ ] Review organizational strategic objectives
@@ -219,7 +219,7 @@ Links:
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation @due(2025-07-15)
+- [ ] Executive Vision Presentation [[2025-07-15]]
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
@@ -263,7 +263,7 @@ Links:
 ```markdown
 # Q4 2025 Program Increment Planning Event (PIPE) #quarterly #strategic
 
-## Preparation Phase @due(2025-10-01) #tactical #operational
+## Preparation Phase [[2025-10-01]] #tactical #operational
 - [ ] Gather previous PI performance metrics
 - [ ] Collect team capacity reports
 - [ ] Review organizational strategic objectives
@@ -274,7 +274,7 @@ Links:
 
 ### Day 1: Strategic Alignment
 #### Morning Session
-- [ ] Executive Vision Presentation @due(2025-10-15)
+- [ ] Executive Vision Presentation [[2025-10-15]]
 - [ ] Current Business Objectives Review
 - [ ] Market and Customer Insights
 - [ ] Technical Architecture Briefing
