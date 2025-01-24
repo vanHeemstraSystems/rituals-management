@@ -20,10 +20,11 @@ Tags:
 Links:
 - Instead of using `@due(2025-01-15)`, or `>2025-01-15`, it is prefered to use `[[2025-01-15]]` as it will update the text on that date if the text in the note is changed as well as creating a backlink. Best of all though is to use each and everyone of them together to benefit from all features: `[[2025-01-15]] @due(2025-01-15) >2025-01-15 @quarterly`.
 - It is recommended to link to dates at task level (e.g. ```Gather performance metrics```) rather than at list level (e.g. ```Preparation Phase```).
+- As well as linking to Calender entries, using the `[[A Name of a Note]]` you can equally link to other Notes.
 
 Calender Entries:
 - If you have linked an item of a Note to a date in a Calendar, the Calendar view will show the item in a grey box. Clicking anywhere within the grey box from the Calendar view will bring you back to the Note it references.
-- If you click on a checkbox within a grey box in a Calender view, the checkbox item will be marked as ticked without the need to go bak to the Note it is part of.
+- If you click on a checkbox within a Reference (i.e. a grey box) within an entry in a Calender view, the checkbox item will be marked as ticked without the need to go bak to the Note it is part of.
 
 Date notations have slightly different purposes:
 
