@@ -1,8 +1,8 @@
-gestion-de-rituales
+gestión de rituales
 
 # Gestión de rituales
 
-> línea de bala
+> Línea de babosa
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ gestion-de-rituales
 
 Texto
 
-Generado con[ritr](https://app.rytr.me)
+Generado con[Ritro](https://app.rytr.me)
 
 ## 100 - Introducción
 
