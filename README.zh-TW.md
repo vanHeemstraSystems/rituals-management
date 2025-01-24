@@ -2,9 +2,9 @@
 
 # 儀式管理
 
-> 斯拉格萊恩
+> 板條
 
--   [DNS](./DNS.md)
+-   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [主辦單位](./HOSTS.md)
@@ -18,9 +18,9 @@
 
 文字
 
-生成於[里特爾](https://app.rytr.me)
+生成[里特爾](https://app.rytr.me)
 
-## 100 - 簡介
+## 100-簡介
 
 看[README.md](./100/README.md)
 
@@ -28,7 +28,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300-構建我們的應用程序
 
 看[README.md](./300/README.md)
 
